@@ -1,0 +1,6 @@
+# Ignore everything in Assignment02
+Assignment02/*
+
+# Allow only notebook and zip
+!Assignment02/*.ipynb
+!Assignment02/*.zip
